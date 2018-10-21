@@ -1,0 +1,26 @@
+{
+  "name": "locale-strng",
+  "version": "1.0.0",
+  "description": "Module to convert the number to locale String",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainreddygh/locale-strng.git"
+  },
+  "keywords": [
+    "localestirng"
+  ],
+  "author": "Sainath Reddy <nsainath.bits@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainreddygh/locale-strng/issues"
+  },
+  "homepage": "https://github.com/sainreddygh/locale-strng#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
