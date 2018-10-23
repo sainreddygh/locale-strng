@@ -43,4 +43,9 @@ describe('#numFormatter', function() {
         var result = numFormatter(12345678);
         expect(result).to.equal('12,345,678');
     });
+
+    it('should convert 8 digits and decimals', function() {
+        var result = numFormatter(12345678.4);
+        expect(result).to.equal('12,345,678.4');
+    });
 });
