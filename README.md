@@ -1,6 +1,4 @@
-# locale-strng
-[![Build Status](https://travis-ci.com/sainreddygh/locale-strng.svg?branch=master)](https://travis-ci.com/sainreddygh/locale-strng)
-[![Coverage Status](https://coveralls.io/repos/github/sainreddygh/locale-strng/badge.svg?branch=master)](https://coveralls.io/github/sainreddygh/locale-strng?branch=master)
+# locale-strng [![Build Status](https://travis-ci.com/sainreddygh/locale-strng.svg?branch=master)](https://travis-ci.com/sainreddygh/locale-strng) [![Coverage Status](https://coveralls.io/repos/github/sainreddygh/locale-strng/badge.svg?branch=master)](https://coveralls.io/github/sainreddygh/locale-strng?branch=master)
 =========
 
 A small library that adds commas to numbers
